@@ -4,3 +4,4 @@ def print_dan(x) :
 
 print_dan(2)
 
+#쓸데없는 주석
